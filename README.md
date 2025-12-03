@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Khalidabdi1&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Khalidabdi1&icon=10&color=3)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=Khalidabdi1&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

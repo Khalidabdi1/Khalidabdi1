@@ -1,8 +1,14 @@
-# 💫 About Me:
-⚡ Passionate about building fast, modern, and meaningful systems.<br>🧩 I explore OS concepts, networking, blockchain ideas, and developer-focused tools.<br>🔧 I experiment a lot, break things on purpose, and rebuild them cleaner.<br>🚀 Always learning, always shipping.
+### Hi, I'm Khalid 👋
 
+Indie developer & founder — I build open-source tools and products, and ship them in public.
+
+**What I'm building**
+- 🧩 [**PanelUI**](https://panelui.dev): React Native / Expo component library
+- 🏥 [**Temetro**](https://temetro.com): open-source, self-hosted EHR for clinics in Africa & MENA
+- 🔍 **HybridRAG**: hybrid text + vision RAG library for Python, with an MCP server
+- 📓 **Better Vault**: open-source, NotebookLM-style knowledge app
+- 🎨 **design-ai**: a curated collection of `DESIGN.md` files
+
+Always learning, always shipping 🚀
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Khalidabdi1&color=blue)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

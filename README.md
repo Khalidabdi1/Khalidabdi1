@@ -1,5 +1,5 @@
 ### Hi, I'm Khalid 👋
-Indie developer & founder — I build open-source tools and products, and ship them in public.
+Indie developer  — I build open-source tools and products, and ship them in public.
 
 
 Always learning, always shipping 🚀
